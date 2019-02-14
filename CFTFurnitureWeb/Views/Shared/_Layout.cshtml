@@ -1,0 +1,141 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <link rel="stylesheet" asp-href-include="/lib/bootstrap/dist/**/*.min.css" asp-href-exclude="**/*-reboot*,**/*-grid*" />
+    <link href="~/lib/twitter-bootstrap/css/bootstrap.css" rel="stylesheet" />
+    <link href="~/lib/font-awesome/css/font-awesome.css" rel="stylesheet" />
+    <link rel="stylesheet" asp-href-include="/lib/fontawesome/css/*.css" />
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js" integrity="sha384-smHYKdLADwkXOn1EmN1qk/HfnUcbVRZyYmZ4qpPea6sjB/pTJ0euyQp0Mk8ck+5T" crossorigin="anonymous"></script>
+    <script src="~/lib/jquery/dist/core.js"></script>
+    <script src="~/lib/jquery/dist/jquery.js"></script>
+    <script src="~/lib/jquery-validation/dist/jquery.validate.js"></script>
+    <script src="~/lib/jquery-validation-unobtrusive/src/jquery.validate.unobtrusive.js"></script>
+    <title>Furniture's House </title>
+    <style>
+        .input-validation-error {
+            border-color: red;
+            background-color: #fee;
+        }
+
+        .btn-outline-primary {
+            background-color: hsl(351, 68%, 11%) !important;
+            background-repeat: repeat-x;
+            background-image: -o-linear-gradient(top, #d12741, #2f080e);
+            background-image: linear-gradient(#d12741, #2f080e);
+            color: #fff !important;
+            border-style: none !important;
+            text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.62);
+        }
+
+        .bg-primary {
+            background-color: hsl(351, 68%, 11%) !important;
+            background-repeat: repeat-x;
+            background-image: -o-linear-gradient(top, #d12741, #2f080e);
+            background-image: linear-gradient(#d12741, #2f080e);
+            color: #fff !important;
+            border-style: none !important;
+            text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.62);
+        }
+
+        .btn-secondary {
+            background-color: hsl(351, 68%, 11%) !important;
+            background-repeat: repeat-x;
+            background-image: -o-linear-gradient(top, #d12741, #2f080e);
+            background-image: linear-gradient(#d12741, #2f080e);
+            color: #fff !important;
+            border-style: none !important;
+            text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.62);
+        }
+
+            .btn-secondary:hover, .btn-secondary:focus, .btn-secondary:active, .btn-secondary.active, .open .dropdown-toggle.btn-secondary {
+                background-color: hsl(0, 87%, 33%) !important;
+                background-repeat: repeat-x;
+                background-image: linear-gradient(#fbeded, #de5353);
+                color: #333 !important;
+                border-style: none !important;
+                text-shadow: 0 1px 1px rgba(255, 255, 255, 0.59);
+            }
+
+        .btn-primary {
+            background-color: hsl(351, 68%, 11%) !important;
+            background-repeat: repeat-x;
+            background-image: -o-linear-gradient(top, #d12741, #2f080e);
+            background-image: linear-gradient(#d12741, #2f080e);
+            color: #fff !important;
+            border-style: none !important;
+            text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.62);
+        }
+
+        .footer {
+            background: #3d6277;
+            padding-top: 2em;
+            color: white;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="navbar navbar-inverse bg-inverse" role="banner">
+        <div id="demo" class="carousel slide" data-ride="carousel">
+            <div class="carousel-inner" role="listbox">
+                <div class="carousel-item active" style=" max-height:450px !important;">
+                    <img class="d-block w-100" src="~/images/images7.jpg" alt="Furniture1">
+                    <div class="carousel-caption">
+
+                    </div>
+                </div>
+                <div class="carousel-item" style=" max-height:450px !important;">
+                    <img class="d-block w-100" src="~/images/images8.jpg" alt="Furniture2">
+                    <div class="carousel-caption">
+
+                    </div>
+                </div>
+                <div class="carousel-item" style=" max-height:450px !important;">
+                    <img class="d-block w-100" src="~/images/images10.jpg" alt="Furniture3">
+                    <div class="carousel-caption">
+
+                    </div>
+                </div>
+                <a class="carousel-control-prev" href="#demo" role="button" data-slide="prev">
+                    <span class="carousel-control-prev-icon"></span>
+                    <span class="sr-only">Previous</span>
+                </a>
+                <a class="carousel-control-next" href="#demo" role="button" data-slide="next">
+                    <span class="carousel-control-next-icon"></span>
+                    <span class="sr-only">Next</span>
+                </a>
+            </div>
+        </div>
+    </div>
+
+    <div class="navbar navbar-inverse bg-inverse" role="navigation">
+        <div class="row">
+
+            <div class="col-4 text-right">
+                @await Component.InvokeAsync("CartSummary")
+            </div>
+        </div>
+    </div>
+    <div class="row m-1 p-1">
+        <div id="categories" class="col-3">
+            @await Component.InvokeAsync("NavigationMenu")
+        </div>
+        <div class="col-9">
+            @RenderBody()
+        </div>
+    </div>
+
+
+    <footer class="page-footer font-small text-center bg-primary text-white">
+
+        <!-- Footer Elements -->
+        <div class="footer-copyright text-center py-3">
+            © 2018 Copyright:
+            <p> Student: Claudia Feliciano - 300945204 </p>
+        </div>
+    </footer>
+</body>
+</html>

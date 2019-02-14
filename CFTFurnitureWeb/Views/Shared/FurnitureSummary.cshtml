@@ -1,0 +1,54 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+<style>
+    .badge-primary {
+        background-color: hsl(351, 68%, 11%) !important;
+        background-repeat: repeat-x;
+        background-image: -o-linear-gradient(top, #d12741, #2f080e);
+        background-image: linear-gradient(#d12741, #2f080e);
+        color: #fff !important;
+        border-style: none !important;
+        text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.62);
+    }
+</style>
+@model Furniture
+<div class="card card-outline-primary m-1 p-1">
+    <div class="bg-faded p-1">
+        <h5>
+            @Model.Name
+            <span class="badge badge-pill badge-primary" style="float:right">
+                @Model.Price.ToString("c")
+            </span>
+        </h5>
+    </div>
+
+
+
+    <form id="@Model.FurnitureID" asp-action="AddToCart"
+          asp-controller="Cart" method="post">
+        <input type="hidden" asp-for="FurnitureID" />
+        <input type="hidden" name="returnUrl"
+               value="@ViewContext.HttpContext.Request.PathAndQuery()" />
+        <div class="row">
+            <div class="col col-lg-2">
+                <img class="card-img" width="160" height="160" src="~/images/@Model.ImagenURL" />
+            </div>
+            <div class="col col-md-8">
+                <p class="card-text p-1">@Model.Description</p>
+            </div>
+            <div class="col col-md-2">
+                <button type="submit"
+                        class="btn btn-danger btn-sm pull-right" style="float:right">
+                    Add To Cart
+                </button>
+            </div>
+        </div>
+
+
+
+    </form>
+</div>
+

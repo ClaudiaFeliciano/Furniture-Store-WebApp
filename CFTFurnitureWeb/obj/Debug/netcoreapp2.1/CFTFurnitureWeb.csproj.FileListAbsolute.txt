@@ -1,0 +1,130 @@
+C:\Users\Claudia\source\repos\CFTFurnitureWeb\CFTFurnitureWeb\obj\Debug\netcoreapp2.1\CFTFurnitureWeb.csprojAssemblyReference.cache
+C:\Users\Claudia\source\repos\CFTFurnitureWeb\CFTFurnitureWeb\obj\Debug\netcoreapp2.1\CFTFurnitureWeb.csproj.CoreCompileInputs.cache
+C:\Users\Claudia\source\repos\CFTFurnitureWeb\CFTFurnitureWeb\obj\Debug\netcoreapp2.1\CFTFurnitureWeb.RazorAssemblyInfo.cache
+C:\Users\Claudia\source\repos\CFTFurnitureWeb\CFTFurnitureWeb\obj\Debug\netcoreapp2.1\CFTFurnitureWeb.RazorAssemblyInfo.cs
+C:\Users\Claudia\source\repos\CFTFurnitureWeb\CFTFurnitureWeb\obj\Debug\netcoreapp2.1\CFTFurnitureWeb.AssemblyInfoInputs.cache
+C:\Users\Claudia\source\repos\CFTFurnitureWeb\CFTFurnitureWeb\obj\Debug\netcoreapp2.1\CFTFurnitureWeb.AssemblyInfo.cs
+C:\Users\Claudia\source\repos\CFTFurnitureWeb\CFTFurnitureWeb\obj\Debug\netcoreapp2.1\CFTFurnitureWeb.TagHelpers.input.cache
+C:\Users\Claudia\source\repos\CFTFurnitureWeb\CFTFurnitureWeb\obj\Debug\netcoreapp2.1\CFTFurnitureWeb.TagHelpers.output.cache
+C:\Users\Claudia\source\repos\CFTFurnitureWeb\CFTFurnitureWeb\obj\Debug\netcoreapp2.1\CFTFurnitureWeb.RazorCoreGenerate.cache
+C:\Users\Claudia\source\repos\CFTFurnitureWeb\CFTFurnitureWeb\obj\Debug\netcoreapp2.1\Razor\Views\Cart\Index.g.cshtml.cs
+C:\Users\Claudia\source\repos\CFTFurnitureWeb\CFTFurnitureWeb\obj\Debug\netcoreapp2.1\Razor\Views\Furniture\AddFurnitureForm.g.cshtml.cs
+C:\Users\Claudia\source\repos\CFTFurnitureWeb\CFTFurnitureWeb\obj\Debug\netcoreapp2.1\Razor\Views\Furniture\Index.g.cshtml.cs
+C:\Users\Claudia\source\repos\CFTFurnitureWeb\CFTFurnitureWeb\obj\Debug\netcoreapp2.1\Razor\Views\Furniture\List.g.cshtml.cs
+C:\Users\Claudia\source\repos\CFTFurnitureWeb\CFTFurnitureWeb\obj\Debug\netcoreapp2.1\Razor\Views\Order\Checkout.g.cshtml.cs
+C:\Users\Claudia\source\repos\CFTFurnitureWeb\CFTFurnitureWeb\obj\Debug\netcoreapp2.1\CFTFurnitureWeb.RazorTargetAssemblyInfo.cache
+C:\Users\Claudia\source\repos\CFTFurnitureWeb\CFTFurnitureWeb\obj\Debug\netcoreapp2.1\CFTFurnitureWeb.RazorTargetAssemblyInfo.cs
+C:\Users\Claudia\source\repos\CFTFurnitureWeb\CFTFurnitureWeb\obj\Debug\netcoreapp2.1\CFTFurnitureWeb.dll
+C:\Users\Claudia\source\repos\CFTFurnitureWeb\CFTFurnitureWeb\obj\Debug\netcoreapp2.1\CFTFurnitureWeb.pdb
+C:\Users\Claudia\source\repos\CFTFurnitureWeb\CFTFurnitureWeb\bin\Debug\netcoreapp2.1\CFTFurnitureWeb.deps.json
+C:\Users\Claudia\source\repos\CFTFurnitureWeb\CFTFurnitureWeb\bin\Debug\netcoreapp2.1\CFTFurnitureWeb.runtimeconfig.json
+C:\Users\Claudia\source\repos\CFTFurnitureWeb\CFTFurnitureWeb\bin\Debug\netcoreapp2.1\CFTFurnitureWeb.runtimeconfig.dev.json
+C:\Users\Claudia\source\repos\CFTFurnitureWeb\CFTFurnitureWeb\bin\Debug\netcoreapp2.1\CFTFurnitureWeb.dll
+C:\Users\Claudia\source\repos\CFTFurnitureWeb\CFTFurnitureWeb\bin\Debug\netcoreapp2.1\CFTFurnitureWeb.pdb
+C:\Users\Claudia\source\repos\CFTFurnitureWeb\CFTFurnitureWeb\bin\Debug\netcoreapp2.1\CFTFurnitureWeb.Views.dll
+C:\Users\Claudia\source\repos\CFTFurnitureWeb\CFTFurnitureWeb\bin\Debug\netcoreapp2.1\CFTFurnitureWeb.Views.pdb
+C:\Users\Claudia\source\repos\CFTFurnitureWeb\CFTFurnitureWeb\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Components\CartSummary\Default.g.cshtml.cs
+C:\Users\Claudia\source\repos\CFTFurnitureWeb\CFTFurnitureWeb\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Components\NavigationMenu\Default.g.cshtml.cs
+C:\Users\Claudia\source\repos\CFTFurnitureWeb\CFTFurnitureWeb\obj\Debug\netcoreapp2.1\Razor\Views\Shared\FurnitureSummary.g.cshtml.cs
+C:\Users\Claudia\source\repos\CFTFurnitureWeb\CFTFurnitureWeb\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Claudia\source\repos\CFTFurnitureWeb\CFTFurnitureWeb\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Claudia\source\repos\CFTFurnitureWeb\CFTFurnitureWeb\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Claudia\source\repos\CFTFurnitureWeb\CFTFurnitureWeb\obj\Debug\netcoreapp2.1\CFTFurnitureWeb.Views.pdb
+C:\Users\Claudia\source\repos\CFTFurnitureWeb\CFTFurnitureWeb\obj\Debug\netcoreapp2.1\CFTFurnitureWeb.csproj.CopyComplete
+C:\Users\Claudia\source\repos\CFTFurnitureWeb\CFTFurnitureWeb\obj\Debug\netcoreapp2.1\Razor\Views\Order\Completed.g.cshtml.cs
+C:\Users\Claudia\source\repos\CFTFurnitureWeb\CFTFurnitureWeb\obj\Debug\netcoreapp2.1\Razor\Views\Order\List.g.cshtml.cs
+C:\Users\Claudia\source\repos\CFTFurnitureWeb\CFTFurnitureWeb\obj\Debug\netcoreapp2.1\Razor\Views\Admin\Index.g.cshtml.cs
+C:\Users\Claudia\source\repos\CFTFurnitureWeb\CFTFurnitureWeb\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_AdminLayout.g.cshtml.cs
+C:\Users\Claudia\source\repos\CFTFurnitureWeb\CFTFurnitureWeb\obj\Debug\netcoreapp2.1\Razor\Views\Admin\Edit.g.cshtml.cs
+C:\Users\Claudia\Documents\Web-Development-master\Web-Development-master\CFTFurnitureWeb\CFTFurnitureWeb\CFTFurnitureWeb\bin\Debug\netcoreapp2.1\CFTFurnitureWeb.deps.json
+C:\Users\Claudia\Documents\Web-Development-master\Web-Development-master\CFTFurnitureWeb\CFTFurnitureWeb\CFTFurnitureWeb\bin\Debug\netcoreapp2.1\CFTFurnitureWeb.runtimeconfig.json
+C:\Users\Claudia\Documents\Web-Development-master\Web-Development-master\CFTFurnitureWeb\CFTFurnitureWeb\CFTFurnitureWeb\bin\Debug\netcoreapp2.1\CFTFurnitureWeb.runtimeconfig.dev.json
+C:\Users\Claudia\Documents\Web-Development-master\Web-Development-master\CFTFurnitureWeb\CFTFurnitureWeb\CFTFurnitureWeb\bin\Debug\netcoreapp2.1\CFTFurnitureWeb.dll
+C:\Users\Claudia\Documents\Web-Development-master\Web-Development-master\CFTFurnitureWeb\CFTFurnitureWeb\CFTFurnitureWeb\bin\Debug\netcoreapp2.1\CFTFurnitureWeb.pdb
+C:\Users\Claudia\Documents\Web-Development-master\Web-Development-master\CFTFurnitureWeb\CFTFurnitureWeb\CFTFurnitureWeb\bin\Debug\netcoreapp2.1\CFTFurnitureWeb.Views.dll
+C:\Users\Claudia\Documents\Web-Development-master\Web-Development-master\CFTFurnitureWeb\CFTFurnitureWeb\CFTFurnitureWeb\bin\Debug\netcoreapp2.1\CFTFurnitureWeb.Views.pdb
+C:\Users\Claudia\Documents\Web-Development-master\Web-Development-master\CFTFurnitureWeb\CFTFurnitureWeb\CFTFurnitureWeb\obj\Debug\netcoreapp2.1\CFTFurnitureWeb.csproj.CoreCompileInputs.cache
+C:\Users\Claudia\Documents\Web-Development-master\Web-Development-master\CFTFurnitureWeb\CFTFurnitureWeb\CFTFurnitureWeb\obj\Debug\netcoreapp2.1\CFTFurnitureWeb.RazorAssemblyInfo.cache
+C:\Users\Claudia\Documents\Web-Development-master\Web-Development-master\CFTFurnitureWeb\CFTFurnitureWeb\CFTFurnitureWeb\obj\Debug\netcoreapp2.1\CFTFurnitureWeb.RazorAssemblyInfo.cs
+C:\Users\Claudia\Documents\Web-Development-master\Web-Development-master\CFTFurnitureWeb\CFTFurnitureWeb\CFTFurnitureWeb\obj\Debug\netcoreapp2.1\CFTFurnitureWeb.AssemblyInfoInputs.cache
+C:\Users\Claudia\Documents\Web-Development-master\Web-Development-master\CFTFurnitureWeb\CFTFurnitureWeb\CFTFurnitureWeb\obj\Debug\netcoreapp2.1\CFTFurnitureWeb.AssemblyInfo.cs
+C:\Users\Claudia\Documents\Web-Development-master\Web-Development-master\CFTFurnitureWeb\CFTFurnitureWeb\CFTFurnitureWeb\obj\Debug\netcoreapp2.1\CFTFurnitureWeb.TagHelpers.input.cache
+C:\Users\Claudia\Documents\Web-Development-master\Web-Development-master\CFTFurnitureWeb\CFTFurnitureWeb\CFTFurnitureWeb\obj\Debug\netcoreapp2.1\CFTFurnitureWeb.TagHelpers.output.cache
+C:\Users\Claudia\Documents\Web-Development-master\Web-Development-master\CFTFurnitureWeb\CFTFurnitureWeb\CFTFurnitureWeb\obj\Debug\netcoreapp2.1\CFTFurnitureWeb.RazorCoreGenerate.cache
+C:\Users\Claudia\Documents\Web-Development-master\Web-Development-master\CFTFurnitureWeb\CFTFurnitureWeb\CFTFurnitureWeb\obj\Debug\netcoreapp2.1\Razor\Views\Admin\Edit.g.cshtml.cs
+C:\Users\Claudia\Documents\Web-Development-master\Web-Development-master\CFTFurnitureWeb\CFTFurnitureWeb\CFTFurnitureWeb\obj\Debug\netcoreapp2.1\Razor\Views\Admin\Index.g.cshtml.cs
+C:\Users\Claudia\Documents\Web-Development-master\Web-Development-master\CFTFurnitureWeb\CFTFurnitureWeb\CFTFurnitureWeb\obj\Debug\netcoreapp2.1\Razor\Views\Cart\Index.g.cshtml.cs
+C:\Users\Claudia\Documents\Web-Development-master\Web-Development-master\CFTFurnitureWeb\CFTFurnitureWeb\CFTFurnitureWeb\obj\Debug\netcoreapp2.1\Razor\Views\Furniture\AddFurnitureForm.g.cshtml.cs
+C:\Users\Claudia\Documents\Web-Development-master\Web-Development-master\CFTFurnitureWeb\CFTFurnitureWeb\CFTFurnitureWeb\obj\Debug\netcoreapp2.1\Razor\Views\Furniture\Index.g.cshtml.cs
+C:\Users\Claudia\Documents\Web-Development-master\Web-Development-master\CFTFurnitureWeb\CFTFurnitureWeb\CFTFurnitureWeb\obj\Debug\netcoreapp2.1\Razor\Views\Furniture\List.g.cshtml.cs
+C:\Users\Claudia\Documents\Web-Development-master\Web-Development-master\CFTFurnitureWeb\CFTFurnitureWeb\CFTFurnitureWeb\obj\Debug\netcoreapp2.1\Razor\Views\Order\Checkout.g.cshtml.cs
+C:\Users\Claudia\Documents\Web-Development-master\Web-Development-master\CFTFurnitureWeb\CFTFurnitureWeb\CFTFurnitureWeb\obj\Debug\netcoreapp2.1\Razor\Views\Order\Completed.g.cshtml.cs
+C:\Users\Claudia\Documents\Web-Development-master\Web-Development-master\CFTFurnitureWeb\CFTFurnitureWeb\CFTFurnitureWeb\obj\Debug\netcoreapp2.1\Razor\Views\Order\List.g.cshtml.cs
+C:\Users\Claudia\Documents\Web-Development-master\Web-Development-master\CFTFurnitureWeb\CFTFurnitureWeb\CFTFurnitureWeb\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Components\CartSummary\Default.g.cshtml.cs
+C:\Users\Claudia\Documents\Web-Development-master\Web-Development-master\CFTFurnitureWeb\CFTFurnitureWeb\CFTFurnitureWeb\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Components\NavigationMenu\Default.g.cshtml.cs
+C:\Users\Claudia\Documents\Web-Development-master\Web-Development-master\CFTFurnitureWeb\CFTFurnitureWeb\CFTFurnitureWeb\obj\Debug\netcoreapp2.1\Razor\Views\Shared\FurnitureSummary.g.cshtml.cs
+C:\Users\Claudia\Documents\Web-Development-master\Web-Development-master\CFTFurnitureWeb\CFTFurnitureWeb\CFTFurnitureWeb\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_AdminLayout.g.cshtml.cs
+C:\Users\Claudia\Documents\Web-Development-master\Web-Development-master\CFTFurnitureWeb\CFTFurnitureWeb\CFTFurnitureWeb\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Claudia\Documents\Web-Development-master\Web-Development-master\CFTFurnitureWeb\CFTFurnitureWeb\CFTFurnitureWeb\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Claudia\Documents\Web-Development-master\Web-Development-master\CFTFurnitureWeb\CFTFurnitureWeb\CFTFurnitureWeb\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Claudia\Documents\Web-Development-master\Web-Development-master\CFTFurnitureWeb\CFTFurnitureWeb\CFTFurnitureWeb\obj\Debug\netcoreapp2.1\CFTFurnitureWeb.RazorTargetAssemblyInfo.cache
+C:\Users\Claudia\Documents\Web-Development-master\Web-Development-master\CFTFurnitureWeb\CFTFurnitureWeb\CFTFurnitureWeb\obj\Debug\netcoreapp2.1\CFTFurnitureWeb.RazorTargetAssemblyInfo.cs
+C:\Users\Claudia\Documents\Web-Development-master\Web-Development-master\CFTFurnitureWeb\CFTFurnitureWeb\CFTFurnitureWeb\obj\Debug\netcoreapp2.1\CFTFurnitureWeb.Views.pdb
+C:\Users\Claudia\Documents\Web-Development-master\Web-Development-master\CFTFurnitureWeb\CFTFurnitureWeb\CFTFurnitureWeb\obj\Debug\netcoreapp2.1\CFTFurnitureWeb.dll
+C:\Users\Claudia\Documents\Web-Development-master\Web-Development-master\CFTFurnitureWeb\CFTFurnitureWeb\CFTFurnitureWeb\obj\Debug\netcoreapp2.1\CFTFurnitureWeb.pdb
+C:\Users\Claudia\Documents\Web-Development-master\Web-Development-master\CFTFurnitureWeb\CFTFurnitureWeb\CFTFurnitureWeb\obj\Debug\netcoreapp2.1\CFTFurnitureWeb.csproj.CopyComplete
+C:\Users\Claudia\Documents\Web-Development-master\Web-Development-master\CFTFurnitureWeb\CFTFurnitureWeb\CFTFurnitureWeb\obj\Debug\netcoreapp2.1\Razor\Views\AdminUser\Index.g.cshtml.cs
+C:\Users\Claudia\Documents\Web-Development-master\Web-Development-master\CFTFurnitureWeb\CFTFurnitureWeb\CFTFurnitureWeb\obj\Debug\netcoreapp2.1\Razor\Views\AdminUser\Create.g.cshtml.cs
+C:\Users\Claudia\Documents\Web-Development-master\Web-Development-master\CFTFurnitureWeb\CFTFurnitureWeb\CFTFurnitureWeb\obj\Debug\netcoreapp2.1\Razor\Views\AdminUser\Edit.g.cshtml.cs
+C:\Users\Claudia\Documents\Web-Development-master\Web-Development-master\CFTFurnitureWeb\CFTFurnitureWeb\CFTFurnitureWeb\obj\Debug\netcoreapp2.1\Razor\Views\Account\Login.g.cshtml.cs
+C:\Users\Claudia\Documents\Web-Development-master\Web-Development-master\CFTFurnitureWeb\CFTFurnitureWeb\CFTFurnitureWeb\obj\Debug\netcoreapp2.1\Razor\Views\RoleAdmin\Index.g.cshtml.cs
+C:\Users\Claudia\Documents\Web-Development-master\Web-Development-master\CFTFurnitureWeb\CFTFurnitureWeb\CFTFurnitureWeb\obj\Debug\netcoreapp2.1\Razor\Views\RoleAdmin\Create.g.cshtml.cs
+C:\Users\Claudia\Documents\Web-Development-master\Web-Development-master\CFTFurnitureWeb\CFTFurnitureWeb\CFTFurnitureWeb\obj\Debug\netcoreapp2.1\CFTFurnitureWeb.csprojAssemblyReference.cache
+C:\Users\Claudia\Documents\Web-Development-master\Web-Development-master\CFTFurnitureWeb\CFTFurnitureWeb\CFTFurnitureWeb\obj\Debug\netcoreapp2.1\Razor\Views\RoleAdmin\Edit.g.cshtml.cs
+C:\Users\Claudia\Documents\Web-Development-master\Web-Development-master\CFTFurnitureWeb\CFTFurnitureWeb\CFTFurnitureWeb\obj\Debug\netcoreapp2.1\Razor\Views\Account\AccessDenied.g.cshtml.cs
+C:\Users\Claudia\Desktop\Centennial 2\CFTFurnitureWeb\CFTFurnitureWeb\bin\Debug\netcoreapp2.1\CFTFurnitureWeb.deps.json
+C:\Users\Claudia\Desktop\Centennial 2\CFTFurnitureWeb\CFTFurnitureWeb\bin\Debug\netcoreapp2.1\CFTFurnitureWeb.runtimeconfig.json
+C:\Users\Claudia\Desktop\Centennial 2\CFTFurnitureWeb\CFTFurnitureWeb\bin\Debug\netcoreapp2.1\CFTFurnitureWeb.runtimeconfig.dev.json
+C:\Users\Claudia\Desktop\Centennial 2\CFTFurnitureWeb\CFTFurnitureWeb\bin\Debug\netcoreapp2.1\CFTFurnitureWeb.dll
+C:\Users\Claudia\Desktop\Centennial 2\CFTFurnitureWeb\CFTFurnitureWeb\bin\Debug\netcoreapp2.1\CFTFurnitureWeb.pdb
+C:\Users\Claudia\Desktop\Centennial 2\CFTFurnitureWeb\CFTFurnitureWeb\bin\Debug\netcoreapp2.1\CFTFurnitureWeb.Views.dll
+C:\Users\Claudia\Desktop\Centennial 2\CFTFurnitureWeb\CFTFurnitureWeb\bin\Debug\netcoreapp2.1\CFTFurnitureWeb.Views.pdb
+C:\Users\Claudia\Desktop\Centennial 2\CFTFurnitureWeb\CFTFurnitureWeb\obj\Debug\netcoreapp2.1\CFTFurnitureWeb.csprojAssemblyReference.cache
+C:\Users\Claudia\Desktop\Centennial 2\CFTFurnitureWeb\CFTFurnitureWeb\obj\Debug\netcoreapp2.1\CFTFurnitureWeb.csproj.CoreCompileInputs.cache
+C:\Users\Claudia\Desktop\Centennial 2\CFTFurnitureWeb\CFTFurnitureWeb\obj\Debug\netcoreapp2.1\CFTFurnitureWeb.RazorAssemblyInfo.cache
+C:\Users\Claudia\Desktop\Centennial 2\CFTFurnitureWeb\CFTFurnitureWeb\obj\Debug\netcoreapp2.1\CFTFurnitureWeb.RazorAssemblyInfo.cs
+C:\Users\Claudia\Desktop\Centennial 2\CFTFurnitureWeb\CFTFurnitureWeb\obj\Debug\netcoreapp2.1\CFTFurnitureWeb.AssemblyInfoInputs.cache
+C:\Users\Claudia\Desktop\Centennial 2\CFTFurnitureWeb\CFTFurnitureWeb\obj\Debug\netcoreapp2.1\CFTFurnitureWeb.AssemblyInfo.cs
+C:\Users\Claudia\Desktop\Centennial 2\CFTFurnitureWeb\CFTFurnitureWeb\obj\Debug\netcoreapp2.1\CFTFurnitureWeb.TagHelpers.input.cache
+C:\Users\Claudia\Desktop\Centennial 2\CFTFurnitureWeb\CFTFurnitureWeb\obj\Debug\netcoreapp2.1\CFTFurnitureWeb.TagHelpers.output.cache
+C:\Users\Claudia\Desktop\Centennial 2\CFTFurnitureWeb\CFTFurnitureWeb\obj\Debug\netcoreapp2.1\CFTFurnitureWeb.RazorCoreGenerate.cache
+C:\Users\Claudia\Desktop\Centennial 2\CFTFurnitureWeb\CFTFurnitureWeb\obj\Debug\netcoreapp2.1\Razor\Views\Account\AccessDenied.g.cshtml.cs
+C:\Users\Claudia\Desktop\Centennial 2\CFTFurnitureWeb\CFTFurnitureWeb\obj\Debug\netcoreapp2.1\Razor\Views\Account\Login.g.cshtml.cs
+C:\Users\Claudia\Desktop\Centennial 2\CFTFurnitureWeb\CFTFurnitureWeb\obj\Debug\netcoreapp2.1\Razor\Views\AdminUser\Create.g.cshtml.cs
+C:\Users\Claudia\Desktop\Centennial 2\CFTFurnitureWeb\CFTFurnitureWeb\obj\Debug\netcoreapp2.1\Razor\Views\AdminUser\Edit.g.cshtml.cs
+C:\Users\Claudia\Desktop\Centennial 2\CFTFurnitureWeb\CFTFurnitureWeb\obj\Debug\netcoreapp2.1\Razor\Views\AdminUser\Index.g.cshtml.cs
+C:\Users\Claudia\Desktop\Centennial 2\CFTFurnitureWeb\CFTFurnitureWeb\obj\Debug\netcoreapp2.1\Razor\Views\Admin\Edit.g.cshtml.cs
+C:\Users\Claudia\Desktop\Centennial 2\CFTFurnitureWeb\CFTFurnitureWeb\obj\Debug\netcoreapp2.1\Razor\Views\Admin\Index.g.cshtml.cs
+C:\Users\Claudia\Desktop\Centennial 2\CFTFurnitureWeb\CFTFurnitureWeb\obj\Debug\netcoreapp2.1\Razor\Views\Cart\Index.g.cshtml.cs
+C:\Users\Claudia\Desktop\Centennial 2\CFTFurnitureWeb\CFTFurnitureWeb\obj\Debug\netcoreapp2.1\Razor\Views\Furniture\AddFurnitureForm.g.cshtml.cs
+C:\Users\Claudia\Desktop\Centennial 2\CFTFurnitureWeb\CFTFurnitureWeb\obj\Debug\netcoreapp2.1\Razor\Views\Furniture\Index.g.cshtml.cs
+C:\Users\Claudia\Desktop\Centennial 2\CFTFurnitureWeb\CFTFurnitureWeb\obj\Debug\netcoreapp2.1\Razor\Views\Furniture\List.g.cshtml.cs
+C:\Users\Claudia\Desktop\Centennial 2\CFTFurnitureWeb\CFTFurnitureWeb\obj\Debug\netcoreapp2.1\Razor\Views\Order\Checkout.g.cshtml.cs
+C:\Users\Claudia\Desktop\Centennial 2\CFTFurnitureWeb\CFTFurnitureWeb\obj\Debug\netcoreapp2.1\Razor\Views\Order\Completed.g.cshtml.cs
+C:\Users\Claudia\Desktop\Centennial 2\CFTFurnitureWeb\CFTFurnitureWeb\obj\Debug\netcoreapp2.1\Razor\Views\Order\List.g.cshtml.cs
+C:\Users\Claudia\Desktop\Centennial 2\CFTFurnitureWeb\CFTFurnitureWeb\obj\Debug\netcoreapp2.1\Razor\Views\RoleAdmin\Create.g.cshtml.cs
+C:\Users\Claudia\Desktop\Centennial 2\CFTFurnitureWeb\CFTFurnitureWeb\obj\Debug\netcoreapp2.1\Razor\Views\RoleAdmin\Edit.g.cshtml.cs
+C:\Users\Claudia\Desktop\Centennial 2\CFTFurnitureWeb\CFTFurnitureWeb\obj\Debug\netcoreapp2.1\Razor\Views\RoleAdmin\Index.g.cshtml.cs
+C:\Users\Claudia\Desktop\Centennial 2\CFTFurnitureWeb\CFTFurnitureWeb\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Components\CartSummary\Default.g.cshtml.cs
+C:\Users\Claudia\Desktop\Centennial 2\CFTFurnitureWeb\CFTFurnitureWeb\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Components\NavigationMenu\Default.g.cshtml.cs
+C:\Users\Claudia\Desktop\Centennial 2\CFTFurnitureWeb\CFTFurnitureWeb\obj\Debug\netcoreapp2.1\Razor\Views\Shared\FurnitureSummary.g.cshtml.cs
+C:\Users\Claudia\Desktop\Centennial 2\CFTFurnitureWeb\CFTFurnitureWeb\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_AdminLayout.g.cshtml.cs
+C:\Users\Claudia\Desktop\Centennial 2\CFTFurnitureWeb\CFTFurnitureWeb\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Claudia\Desktop\Centennial 2\CFTFurnitureWeb\CFTFurnitureWeb\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Claudia\Desktop\Centennial 2\CFTFurnitureWeb\CFTFurnitureWeb\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Claudia\Desktop\Centennial 2\CFTFurnitureWeb\CFTFurnitureWeb\obj\Debug\netcoreapp2.1\CFTFurnitureWeb.RazorTargetAssemblyInfo.cache
+C:\Users\Claudia\Desktop\Centennial 2\CFTFurnitureWeb\CFTFurnitureWeb\obj\Debug\netcoreapp2.1\CFTFurnitureWeb.RazorTargetAssemblyInfo.cs
+C:\Users\Claudia\Desktop\Centennial 2\CFTFurnitureWeb\CFTFurnitureWeb\obj\Debug\netcoreapp2.1\CFTFurnitureWeb.Views.pdb
+C:\Users\Claudia\Desktop\Centennial 2\CFTFurnitureWeb\CFTFurnitureWeb\obj\Debug\netcoreapp2.1\CFTFurnitureWeb.dll
+C:\Users\Claudia\Desktop\Centennial 2\CFTFurnitureWeb\CFTFurnitureWeb\obj\Debug\netcoreapp2.1\CFTFurnitureWeb.pdb
+C:\Users\Claudia\Desktop\Centennial 2\CFTFurnitureWeb\CFTFurnitureWeb\obj\Debug\netcoreapp2.1\CFTFurnitureWeb.csproj.CopyComplete
